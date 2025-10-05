@@ -12,10 +12,11 @@ def main() -> None:
     #Why is the return type int?: 
 
     #make a loop that adds A by X, Y times
-    #A = input('What number should we add to? ')
+    #A = int(input('What number should we add to? '))
 
 if __name__ == '__main__':
     main()
+
 
 
 
