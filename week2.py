@@ -9,13 +9,14 @@ def main() -> None:
     #start here
 
     #are X and Y in main the same variables as X and Y in your function?: (your answer)
-    #what happens if you use None as the return type?:
+    #Why is the return type int?: 
 
     #make a loop that adds A by X, Y times
-    #A = input('What number should we add to?')
+    #A = input('What number should we add to? ')
 
 if __name__ == '__main__':
     main()
+
 
 
 
