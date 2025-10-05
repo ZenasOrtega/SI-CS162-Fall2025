@@ -3,8 +3,8 @@
 def main() -> None:
     #make a function that is able to take two user intiger inputs, and add them together, print the results
     #in the given comment lines answer the small prompts 
-    X = input('what is the first number you want to add?')
-    Y = input('what is the second number you want to add?')
+    X = int(input('what is the first number you want to add?'))
+    Y = int(input('what is the second number you want to add?'))
 
     #start here
 
@@ -16,4 +16,5 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
 
