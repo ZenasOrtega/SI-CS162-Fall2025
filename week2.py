@@ -6,6 +6,8 @@ def main() -> None:
     X = input('what is the first number you want to add?')
     Y = input('what is the second number you want to add?')
 
+    #start here
+
     #are X and Y in main the same variables as X and Y in your function?: (your answer)
     #what happens if you use None as the return type?:
 
@@ -14,3 +16,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
