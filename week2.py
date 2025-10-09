@@ -8,8 +8,6 @@ def main() -> None:
 
     #start here
 
-    #What does each part of the function defenition tell us? 
-    #are X and Y in main the same variables as X and Y in your function?: 
     
     #make a loop that adds A by X, Y times
     #A = int(input('What number should we add to? ')
@@ -20,6 +18,7 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
 
 
 
