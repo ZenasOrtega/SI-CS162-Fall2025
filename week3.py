@@ -33,7 +33,7 @@ def main() -> None:
   #TODO:
     #read each line from the csv and print it out
 
-  #whats the difference between write and appending to a text file?
+  #whats the difference between writting and appending to a text file?
 
 if __name__ = '__main__':
   main()
