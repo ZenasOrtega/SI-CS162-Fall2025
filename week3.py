@@ -23,7 +23,7 @@ def main() -> None:
     #ValueError (Python)
     #ArrayIndexOutOfBoundsException
 
-  #make a .txt file and copy and paste this into it (remove the #'s):
+  #make a .csv file and copy and paste this into it (remove the #'s):
     #Name, Media Type 
     #Black clover, Show, 
     #Pokemon, Game
