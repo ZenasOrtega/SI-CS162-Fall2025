@@ -35,5 +35,5 @@ def main() -> None:
 
   #whats the difference between writting and appending to a text file?
 
-if __name__ = '__main__':
+if __name__ == '__main__':
   main()
