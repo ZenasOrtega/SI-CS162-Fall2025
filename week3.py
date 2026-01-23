@@ -30,10 +30,14 @@ def main() -> None:
     #Happy Gilmore, Movie
     #Starlight, Song
 
+#whats the difference between a .csv and a .txt file?
+  
   #TODO:
     #read each line from the csv and print it out
 
-  #whats the difference between writting and appending to a text file?
+  #whats the difference between writting and appending to a text file? do the following and note the differnce :)
+    #write to a new file 'W_file.txt'
+    #append to a new file 'A_file.txt'
 
 if __name__ == '__main__':
   main()
