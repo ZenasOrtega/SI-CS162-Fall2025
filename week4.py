@@ -11,7 +11,7 @@
 
 
 def main() -> None:
-  user_wage = flaot(input('whats your monthly payment'))
+  user_wage = float(input('whats your monthly payment'))
   #start here
 
 
