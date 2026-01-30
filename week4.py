@@ -18,5 +18,10 @@ def main() -> None:
   #start here
 
 
+  #answer the following, say that the file youre importing is in a directory before the current one how would you access that file with import?
+
+  #now say that file is in a director, meaning the current one and the one the file is in are under a single directory
+
+
 if __name__ == '__main__':
     main()
