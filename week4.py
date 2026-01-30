@@ -3,6 +3,9 @@
   #number of wheels as an integer 
   #price as a float
 
+  #constructor 
+  #a class fxn that prints the attributes of the car
+
 #fxn to calc to calculate monthly payment using the expression: price/(users_wage * 20)
   #make sure to account for all possible inputs (-#s to +#s)
 
