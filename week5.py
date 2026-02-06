@@ -13,11 +13,26 @@ class Vehicle:
         print("Beep Beep")
     
     #make any other fxns neccessary here
+        #default specialty that all vehicles can do
+        #a getter for the owners name
+        
 
 #make the child classes here
+ #the car class needs to consist of
+    #a "special" string attribute that says what it's specifically good at 
+
+    #a fxn that overwrites the honk fxn to the cars special type of honking sound
+    #print what that specific car can do that the others cant
+    #a getter fxn that gets the owner's name
 
 def main() -> None:
-    #make the classes that is able to take two user intiger inputs, and add them together, print the results
+    #mkae the following child classes
+        #your favorite car
+        #semi truck
+        #fisher price car
+        #dirtbike
+
+    #make a fxn that passes all over your different vehicles into one fxn that prints all their neccessary info in a loop
     pass
 
 
