@@ -93,7 +93,7 @@ def print_all_vehicles(lov: list[Vehicle])-> None:
             #cada clase hijos, son differentes
         #PERO todo los clases hijos son "Vehicles"
             #"una troca no es un moto, pero un moto y troca son autos!"
-    #esto nos deja a manadar todos los differentes clases de hijos sin hacer mucho trabajo
+    #esto nos deja a manadar todos los differentes clases de hijos sin hacer mucho trabajo, esto se llama "Polymorphism"
 
     #aqui vamos a primir la informacion de cada "Vehicle"
     for i in lov:
