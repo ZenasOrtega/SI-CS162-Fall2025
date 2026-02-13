@@ -37,6 +37,8 @@ def main() -> None:
 
     #whats the difference between y = x and Steak = Pancakes
 
+    #how do i make a copy and not a direct reference
+
 if __name__ == '__main__':
     main()
 
