@@ -7,7 +7,7 @@ class Animals:
 
   def __init__(self, spc: str, sound: str) -> None:
     self.Spc = spc
-    self.Noise = str
+    self.Noise = sound
 
   @abstractmethod
   def noise(self) -> None:
