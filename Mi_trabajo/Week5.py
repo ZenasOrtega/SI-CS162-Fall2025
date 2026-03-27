@@ -9,7 +9,7 @@ class Vehicle:
     #aqui es un funcion definido abajo de la clase "Vehicle"
         #mira especificamente a este funcion, se llama "__init__"
     def __init__(self, num_of_wheels : int, num_doors : int, manu_name : str, _owner : str) -> None:
-        #lo que este funcion hace, es recibe los parametros y lo aplica a los atributos de "Vehicle"
+        #lo que este funcion hace, es recibe los parametros y lo aplica a los atributos de este objecto "Vehicle" específico
             #recibe: el objecto que llamo, y 4 variables
             #en este caso, "self" es el objecto de clase "Vehicle" que llamo al funcion "__init__()"
         self.num_of_wheels = num_of_wheels
