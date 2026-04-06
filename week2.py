@@ -9,7 +9,7 @@ def main() -> None:
     #start here
 
     
-    #make a loop that adds A by X, Y times
+    #make a loop that adds A (anither variable) and X together, Y amount of times
     #A = int(input('What number should we add to? ')
 
     #same concept but with the other type of loop
