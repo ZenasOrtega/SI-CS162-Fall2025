@@ -14,7 +14,7 @@ def main() -> None:
   McQueen.print_info()
 
   #Adentro de el archivo "car" hay 2 funciones, lo vamos a llamar
-    #(nombre del archivo).(funcion que quieres acsesar)---
+    #(nombre del archivo).(funcion que quieres accesar)---
   car.monthly(user_wage, McQueen)
   car.tire_condtions(McQueen)
 
