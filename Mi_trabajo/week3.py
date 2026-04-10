@@ -9,6 +9,21 @@ def line_reader(line: str) -> str:
     
 
 def main() -> None:
+     #Occurs when attempting to access a file that does not exist.
+        #FileNotFoundException
+    #Occurs when attempting to cast an object to a type that it is not compatible with.
+        #ClassCastException
+    #Occurs when a function receives an argument of the correct type but an inappropriate value.
+        #ValueError (Python)
+    #Occurs during invalid arithmetic operations, such as division by zero.
+        #ArithmeticException
+    #Occurs when attempting to access an array element using an index that is outside the valid range.
+        #ArrayIndexOutOfBoundsException
+    #Occurs when an operation is performed on a value of the wrong data type.
+        #TypeError (Python)
+    #Occurs when attempting to convert a string that does not represent a valid number into a numerical type.
+        #NumberFormatException
+    
   #crea un archivo .csv y copia y pega esto dentro (quita los #'s):
     #Name, Media Type 
     #Black clover, Show 
