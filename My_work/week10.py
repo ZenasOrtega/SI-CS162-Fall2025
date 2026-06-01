@@ -17,7 +17,7 @@ def selection_sort(numbers):
     return numbers
 
 
-#Insertion Sort (loops)
+#Insertion Sort
 def insertion_sort(numbers):
     n = len(numbers)
     for i in range(1, n):
