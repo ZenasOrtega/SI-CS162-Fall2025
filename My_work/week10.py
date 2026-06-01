@@ -37,10 +37,12 @@ def main():
     print(numbers)
 
     #make a function that sorts a list in the given way above, in both a for loop and recursive
+    selection_list = numbers.copy()
     selection_sort(selection_list)
     print("Selection Sort:", selection_list)
 
     # Test Insertion Sort
+    insertion_list = numbers.copy()
     insertion_sort(insertion_list)
     print("Insertion Sort:", insertion_list)
 
